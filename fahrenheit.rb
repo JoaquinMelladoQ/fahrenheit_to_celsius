@@ -1,4 +1,4 @@
-f = gets.chomp.to_i
-c = ((f + 40) / 1.8) - 40
+fahrenheit = gets.chomp.to_i
+celsius = ((f + 40) / 1.8) - 40
 
-puts "La temperatura es #{c} grados"
+puts "The temperature is #{celsius} grades"
